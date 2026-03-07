@@ -1,27 +1,200 @@
-# 💫 About Me:
-## Frontend Developer | React.js | TypeScript
+<div align="center">
 
-🚀 3.5+ years building responsive web applications
-💡 Expert in React, TypeScript, and UX-focused development
-🌍 Experience with distributed teams across USA, Europe, India
-📈 Proven track record: 35% faster load times, 1000+ concurrent users
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header)
 
+# Hi, I'm Mohammad Savad N 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/that_s_guy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savadneeliyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savadn632@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Senior+Frontend+Engineer;React+%2F+TypeScript+Specialist;Building+Fast%2C+Scalable+UIs)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=savadneeliyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=savadneeliyan&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=savadneeliyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savadneeliyan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savadneeliyan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savadn632@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=savadneeliyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=savadneeliyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+Frontend Engineer with **3+ years** specializing in **React** and **TypeScript** — from building component libraries and design systems to real-time applications and performance-critical dashboards.
+
+- 🚀 Currently building at **G3 Interactive Pty Ltd** — React/TypeScript for educational platforms
+- ⚡ Obsessed with performance — achieved **sub-100ms response times** through code splitting, lazy loading & smart state management
+- 🏗️ Led a platform from **v1 → v2** at Lilac Infotech, improving dev efficiency by **40%**
+- 🔧 Reduced CI/CD deployment time by **60%** through pipeline optimization
+- 🌍 Built customer portals serving **15+ countries**
+- 📬 Reach me at **savadn632@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+**State & Data**
+
+![Redux](https://skillicons.dev/icons?i=redux)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Build & Workflow**
+
+![Vite](https://skillicons.dev/icons?i=vite)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+**Testing**
+
+![Jest](https://skillicons.dev/icons?i=jest)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+
+---
+
+## 🚧 Featured Projects
+
+> These projects demonstrate the same skills I apply at work — performance optimization, scalable architecture, and component-driven development.
+
+---
+
+### 🖊️ [CollabCode — Real-Time Collaborative Code Editor](#)
+> *Like a mini CodeSandbox — multiple users editing code together in real time*
+
+Built to mirror the kind of real-time, multi-user educational platform work I do at G3 Interactive. Implements CRDT-based conflict resolution so simultaneous edits never clash.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs_CRDT-6E57E0?style=flat-square)
+
+**Highlights:**
+- 🔄 Real-time sync across multiple users via Yjs CRDT algorithm
+- 👁️ Live cursor presence — see exactly where others are editing
+- ▶️ Run code in-browser with Judge0 API (JS, Python, TypeScript, C++)
+- 🚪 Create/join rooms instantly via shareable link
+- ⚡ Sub-100ms editor response through optimized Monaco bindings
+
+[View Repo](#) · [Live Demo](#)
+
+---
+
+### 📊 [PerfLens — Web Performance Dashboard](#)
+> *Audit any URL and visualize its Core Web Vitals in real time*
+
+Built to back up my performance claims with hard data. Surfaces exactly the metrics that matter — LCP, FID, CLS, TTFB — so optimization decisions are evidence-based.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+![Lighthouse API](https://img.shields.io/badge/Lighthouse_API-F44B21?style=flat-square&logo=googlechrome&logoColor=white)
+
+**Highlights:**
+- 📈 Visualizes LCP, FID, CLS, TTFB, Speed Index in interactive charts
+- 🔁 Compare performance before and after optimization
+- 📋 Exportable audit reports
+- 🏎️ Shows bundle size breakdown and render-blocking resources
+
+[View Repo](#) · [Live Demo](#)
+
+---
+
+### 🧩 [SavadUI — Component Library](#)
+> *A published npm component library with 15+ accessible, typed React components*
+
+Directly mirrors the component-driven architecture I've built across production codebases. Every component is documented in Storybook, fully typed, and tested.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+**Highlights:**
+- 📦 Published to npm — installable via `npm install savad-ui`
+- 📖 Full Storybook documentation with live playground
+- ♿ WCAG accessible components with keyboard navigation
+- 🎨 Themeable via CSS variables
+- 🧪 95%+ test coverage with Jest + React Testing Library
+
+[View Repo](#) · [Storybook Docs](#) · [npm](#)
+
+---
+
+### 🗺️ [PathFinder — Algorithm Visualizer](#)
+> *See Dijkstra, A\*, BFS, DFS come alive on an interactive grid*
+
+Inspired by the Navigation System I built at work. Makes algorithm logic visual and intuitive — great for understanding the performance tradeoffs between pathfinding approaches.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Highlights:**
+- 🔍 5 algorithms: Dijkstra, A*, BFS, DFS, Greedy Best-First
+- 🎯 Draw walls, set start/end points, watch traversal in real time
+- ⏱️ Step-through mode to pause and inspect each iteration
+- 📊 Side-by-side algorithm comparison mode
+
+[View Repo](#) · [Live Demo](#)
+
+---
+
+### ⚙️ [react-deploy-kit — CI/CD Pipeline Template](#)
+> *A production-ready GitHub Actions setup for React/TypeScript projects*
+
+I reduced deployment time by 60% at G3 Interactive — this template documents exactly how. Batteries-included CI/CD for any React app.
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Highlights:**
+- ✅ Lint → Test → Build → Deploy on every push
+- 🔀 Preview deployments on every pull request
+- 🔒 Secrets management and environment separation
+- 📋 PR checklist template and branch protection rules
+
+[View Repo](#) · [Use Template](#)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Savad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=savadneeliyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savadneeliyan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=savadneeliyan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Experience Highlights
+
+| Company | Role | Period | Impact |
+|---------|------|--------|--------|
+| **G3 Interactive Pty Ltd** | Software Engineer | Jun 2024 – Present | Sub-100ms response times · 60% faster deployments |
+| **Lilac Infotech** | Software Engineer | Oct 2023 – May 2024 | v1→v2 migration · 40% dev efficiency gain · 15+ countries |
+| **Limenzy Technologies** | Frontend Developer | Mar 2022 – Aug 2023 | 35% load time reduction · scalable codebases |
+
+---
+
+<div align="center">
+
+*"Performance is a feature. Scalability is a mindset."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
+
+</div>
