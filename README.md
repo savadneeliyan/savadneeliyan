@@ -4,7 +4,7 @@
 
 # Hi, I'm Mohammad Savad N 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer+specializing+in+React+and+TypeScript;Building+fast%2C+scalable%2C+and+maintainable+web+applications;Passionate+about+performance+and+clean+UI+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Frontend+Engineer+specializing+in+React+and+TypeScript;Building+fast%2C+scalable%2C+and+maintainable+web+applications;Passionate+about+performance+and+clean+UI+architecture)](https://git.io/typing-svg)
 
 
 
