@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with **3+ years** specializing in **React** and **TypeScript** — from building component libraries and design systems to real-time applications and performance-critical dashboards.
+Frontend Engineer with **4 years** specializing in **React** and **TypeScript** — from building component libraries and design systems to real-time applications and performance-critical dashboards.
 
 - 🚀 Currently building at **G3 Interactive Pty Ltd** — React/TypeScript for educational platforms
 - ⚡ Obsessed with performance — achieved **sub-100ms response times** through code splitting, lazy loading & smart state management
